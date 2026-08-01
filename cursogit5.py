@@ -13,5 +13,4 @@ def calculate_fibonacci(n):
     
     return fib_sequence
 
-
-calculate_fibonacci(10)
+print(calculate_fibonacci(10))
